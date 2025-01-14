@@ -1,4 +1,4 @@
-Project works only with node_modules files, install them through cmd 
+Project works only with node_modules files, install through cmd 
 
 
 
